@@ -2,10 +2,18 @@
 
 docent: Pascal Nosenzo (pascal.nosenzo@kdg.be)
 
+## Deadlines
+
+- ### Deadline 01  
+	- Deadline: voor de les van dinsdag 7 oktober 2014
+	- Opdracht: tot en met de opdracht op GET
+
 ## Spelregels
 
-- Vroeger doorgaan tijdens de lessen is geen enkel probleem, mits je dit op voorhand laat weten.
-- Heb je foutjes gevonden of klopt er iets niet? Aanpassingen/verbeteringen (pull requests) aan de cursus worden beloond met minstens één extra punt op het eindtotaal én een eerbare vermelding op de contributors-lijst van de cursus.
+- Deadlines worden gerespecteerd, zonder discussie.
+- Je mag dingen kopiëren, op voorwaarde dat je elke lijn code kan uitleggen.
+- Vroeger doorgaan tijdens de lessen is geen enkel probleem, mits je dit bij het begin van de les laat weten.
+- Heb je foutjes gevonden of klopt er iets niet? Aanpassingen/verbeteringen (pull requests) aan de cursus worden beloond met minstens één extra punt op het eindtotaal én een eerbare vermelding op de [contributors](https://github.com/pascalculator/web-backend#contributors)-lijst van de cursus.
 
 ## Beoordeling
 - Je wordt als volgt beoordeeld:
@@ -17,7 +25,7 @@ docent: Pascal Nosenzo (pascal.nosenzo@kdg.be)
 		- Stel je voldoende vragen?
 
 	- Resultaat van de tussentijdse opdrachten
-		- Op het einde van elke periode volgt er een opdracht. Deze los je individueel op. Plagiaat/kopiëren wordt zwaar bestraft.
+		- Op het einde van elke periode volgt er een opdracht. Deze los je individueel op. Plagiaat/kopiëren van medestudenten wordt zwaar bestraft.
 
 
 ## Cursus
@@ -41,4 +49,7 @@ Deze virtual hosts moeten correct ingesteld worden, anders zullen sommige voorbe
 
 ## Studenten
 
-https://rawgit.com/pascalculator/kdg-web-backend-2014-2015/master/studenten.html
+- ### Kristof Van Aken
+	- email: kristof.vanaken@student.kdg.be
+	- GitHub: https://github.com/VanAkenKristof
+				
