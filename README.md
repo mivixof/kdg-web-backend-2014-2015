@@ -1,6 +1,7 @@
 # KdG: Web Backend (2014-2015)
 
 docent: Pascal Nosenzo (pascal.nosenzo@kdg.be)
+
 ECTS: [Web back-end WP 2](https://bamaflexweb.kdg.be/BMFUIDetailxOLOD.aspx?a=56428&b=1&c=1)
 
 ## Deadlines
@@ -8,35 +9,6 @@ ECTS: [Web back-end WP 2](https://bamaflexweb.kdg.be/BMFUIDetailxOLOD.aspx?a=564
 - Deadline 01  
 	- Deadline: voor de les van dinsdag 7 oktober 2014
 	- Opdracht: tot en met de opdracht op GET
-
-## Spelregels
-
-- Deze cursus is zelfstudie: je doorloopt de slides, bekijkt de overeenstemmende voorbeelden en maakt vervolgens de opdrachten. Dat betekent niet dat je niet mag overleggen of vragen mag stellen. De docent is er om je te begeleiden en feedback te geven. Maak hier dus gebruik van!
-- Je bent aanwezig tijdens de lessen zodat er persoonlijke begeleiding kan gegeven worden. (afwezigheden worden op de KdG-voorgestelde manier gemeld)
-- Je gemaakte opdrachten komen op je publieke GitHub repository.
-- Per gemaakte opdracht voer je minstens één commit uit, zodat het duidelijk is wanneer je aan welke oefening hebt gewerkt. 
-- Deadlines worden gerespecteerd, zonder discussie.
-- Je mag dingen kopiëren, op voorwaarde dat je elke lijn code kan uitleggen.
-- Vroeger doorgaan tijdens de lessen is geen enkel probleem, mits je dit bij het begin van de les laat weten.
-- Heb je foutjes gevonden of klopt er iets niet? Aanpassingen/verbeteringen (pull requests) aan de cursus worden beloond met minstens één extra punt op het eindtotaal én een eerbare vermelding op de [contributors](https://github.com/pascalculator/web-backend#contributors)-lijst van de cursus.
-- Bij problemen (te hoge werkdruk, planning, ...) kan je mij dit in vertrouwen laten weten en dan zoeken we samen naar een oplossing. Het is belangrijk dat je dit -op voorhand- laat weten en niet bv. nadat een deadline is verstreken.
-
-## Beoordeling
-
-- Permanente evaluatie tijdens de lessen op basis van de opdrachten
-	- Laat je zien dat je jezelf kan bijsturen?
-	- Ben je kritisch ten opzichte van de oplossingen?
-	- Ben je periodiek met de oefeningen bezig?
-	- Verricht je opzoekingswerk?
-	- Stel je voldoende vragen?
-	- Haal je de deadlines of communiceer je tijdig wanneer dit niet lukt?
-
-- Resultaat van de tussentijdse opdrachten
-	- Op het einde van elke periode volgt er een opdracht om te kijken wat je huidige kennis is. Deze wordt beoordeeld op:
-		- Werkbaarheid
-		- Gebruikte technieken comform met de cursus
-		- Cleane code (indents, herbruikbaarheid: functies/classes, scheiding logica & html)
-	- Deze opdracht moet individueel opgelost worden. Plagiaat/kopiëren wordt zwaar bestraft en krijgen een glansloze vermelding in de "Hall of shame".
 
 
 ## Cursus
@@ -57,6 +29,44 @@ Stel daarna je virtual hosts in (zie slides [Virtual Server Setup](https://githu
 - http://oplossingen.web-backend.local -> verwijst naar de map web-backend/oplossingen
 
 Deze virtual hosts moeten correct ingesteld worden, anders zullen sommige voorbeelden niet werken.
+
+
+## Spelregels
+
+- Deze cursus is zelfstudie: je doorloopt de slides, bekijkt de overeenstemmende voorbeelden en maakt vervolgens de opdrachten. Dat betekent niet dat je niet mag overleggen of vragen mag stellen. De docent is er om je te begeleiden en feedback te geven. Maak hier dus gebruik van!
+
+- Je bent aanwezig tijdens de lessen zodat er persoonlijke begeleiding kan gegeven worden. (afwezigheden worden op de KdG-voorgestelde manier gemeld)
+
+- Je gemaakte opdrachten komen op je publieke GitHub repository.
+
+- Per gemaakte opdracht voer je minstens één commit uit, zodat het duidelijk is wanneer je aan welke oefening hebt gewerkt. 
+- Deadlines worden gerespecteerd, zonder discussie.
+
+- Je mag dingen kopiëren, op voorwaarde dat je elke lijn code kan uitleggen.
+
+- Vroeger doorgaan tijdens de lessen is geen enkel probleem, mits je dit bij het begin van de les laat weten en je tijdens je aanwezigheid hebt laten zien waar je aan gewerkt hebt.
+
+- Heb je foutjes gevonden of klopt er iets niet? Aanpassingen/verbeteringen (pull requests) aan de cursus worden beloond met minstens één extra punt op het eindtotaal én een eerbare vermelding op de [contributors](https://github.com/pascalculator/web-backend#contributors)-lijst van de cursus.
+
+- Bij problemen (te hoge werkdruk, planning, ...) kan je mij dit in vertrouwen laten weten en dan zoeken we samen naar een oplossing. Het is belangrijk dat je dit -op voorhand- laat weten en niet bv. nadat een deadline is verstreken.
+
+## Beoordeling
+
+- Permanente evaluatie tijdens de lessen op basis van de opdrachten
+	- Laat je zien dat je jezelf kan bijsturen?
+	- Ben je kritisch ten opzichte van de oplossingen?
+	- Ben je periodiek met de oefeningen bezig?
+	- Verricht je opzoekingswerk?
+	- Stel je voldoende vragen?
+	- Haal je de deadlines of communiceer je tijdig wanneer dit niet lukt?
+
+- Resultaat van de tussentijdse opdrachten
+	- Op het einde van elke periode volgt er een opdracht om te kijken wat je huidige kennis is. Deze wordt beoordeeld op:
+		- Werkbaarheid
+		- Gebruikte technieken comform met de cursus
+		- Cleane code (indents, herbruikbaarheid: functies/classes, scheiding logica & html)
+	- Deze opdracht moet individueel opgelost worden. Plagiaat/kopiëren wordt zwaar bestraft en krijgen een glansloze vermelding in de "Hall of shame".
+
 
 ## Studenten
 
