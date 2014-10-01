@@ -10,12 +10,14 @@ docent: Pascal Nosenzo (pascal.nosenzo@kdg.be)
 
 ## Spelregels
 
+- Je bent aanwezig tijdens de lessen zodat er persoonlijke begeleiding kan gegeven worden. (afwezigheden worden op de KdG-voorgestelde manier gemeld)
 - Je gemaakte opdrachten komen op je publieke GitHub repository.
 - Per gemaakte opdracht voer je minstens één commit uit, zodat het duidelijk is wanneer je aan welke oefening hebt gewerkt. 
 - Deadlines worden gerespecteerd, zonder discussie.
 - Je mag dingen kopiëren, op voorwaarde dat je elke lijn code kan uitleggen.
 - Vroeger doorgaan tijdens de lessen is geen enkel probleem, mits je dit bij het begin van de les laat weten.
 - Heb je foutjes gevonden of klopt er iets niet? Aanpassingen/verbeteringen (pull requests) aan de cursus worden beloond met minstens één extra punt op het eindtotaal én een eerbare vermelding op de [contributors](https://github.com/pascalculator/web-backend#contributors)-lijst van de cursus.
+- Bij problemen (te hoge werkdruk, planning, ...) kan je mij dit in vertrouwen laten weten en dan zoeken we samen naar een oplossing. Het is belangrijk dat je dit -op voorhand- laat weten en niet bv. tijdens een examen.
 
 ## Beoordeling
 
