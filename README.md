@@ -1,6 +1,7 @@
 # KdG: Web Backend (2014-2015)
 
 docent: Pascal Nosenzo (pascal.nosenzo@kdg.be)
+ECTS: [Web back-end WP 2](https://bamaflexweb.kdg.be/BMFUIDetailxOLOD.aspx?a=56428&b=1&c=1)
 
 ## Deadlines
 
@@ -10,6 +11,7 @@ docent: Pascal Nosenzo (pascal.nosenzo@kdg.be)
 
 ## Spelregels
 
+- Deze cursus is zelfstudie: je doorloopt de slides, bekijkt de overeenstemmende voorbeelden en maakt vervolgens de opdrachten. Dat betekent niet dat je niet mag overleggen of vragen mag stellen. De docent is er om je te begeleiden en feedback te geven. Maak hier dus gebruik van!
 - Je bent aanwezig tijdens de lessen zodat er persoonlijke begeleiding kan gegeven worden. (afwezigheden worden op de KdG-voorgestelde manier gemeld)
 - Je gemaakte opdrachten komen op je publieke GitHub repository.
 - Per gemaakte opdracht voer je minstens één commit uit, zodat het duidelijk is wanneer je aan welke oefening hebt gewerkt. 
@@ -17,11 +19,11 @@ docent: Pascal Nosenzo (pascal.nosenzo@kdg.be)
 - Je mag dingen kopiëren, op voorwaarde dat je elke lijn code kan uitleggen.
 - Vroeger doorgaan tijdens de lessen is geen enkel probleem, mits je dit bij het begin van de les laat weten.
 - Heb je foutjes gevonden of klopt er iets niet? Aanpassingen/verbeteringen (pull requests) aan de cursus worden beloond met minstens één extra punt op het eindtotaal én een eerbare vermelding op de [contributors](https://github.com/pascalculator/web-backend#contributors)-lijst van de cursus.
-- Bij problemen (te hoge werkdruk, planning, ...) kan je mij dit in vertrouwen laten weten en dan zoeken we samen naar een oplossing. Het is belangrijk dat je dit -op voorhand- laat weten en niet bv. tijdens een examen.
+- Bij problemen (te hoge werkdruk, planning, ...) kan je mij dit in vertrouwen laten weten en dan zoeken we samen naar een oplossing. Het is belangrijk dat je dit -op voorhand- laat weten en niet bv. nadat een deadline is verstreken.
 
 ## Beoordeling
 
-- Permanente evaluatie tijdens de lessen 
+- Permanente evaluatie tijdens de lessen op basis van de opdrachten
 	- Laat je zien dat je jezelf kan bijsturen?
 	- Ben je kritisch ten opzichte van de oplossingen?
 	- Ben je periodiek met de oefeningen bezig?
@@ -30,11 +32,11 @@ docent: Pascal Nosenzo (pascal.nosenzo@kdg.be)
 	- Haal je de deadlines of communiceer je tijdig wanneer dit niet lukt?
 
 - Resultaat van de tussentijdse opdrachten
-	- Op het einde van elke periode volgt er een opdracht. Deze wordt beoordeeld op:
+	- Op het einde van elke periode volgt er een opdracht om te kijken wat je huidige kennis is. Deze wordt beoordeeld op:
 		- Werkbaarheid
 		- Gebruikte technieken comform met de cursus
 		- Cleane code (indents, herbruikbaarheid: functies/classes, scheiding logica & html)
-	- Deze opdracht moet individueel opgelost worden. Plagiaat/kopiëren wordt zwaar bestraft.
+	- Deze opdracht moet individueel opgelost worden. Plagiaat/kopiëren wordt zwaar bestraft en krijgen een glansloze vermelding in de "Hall of shame".
 
 
 ## Cursus
