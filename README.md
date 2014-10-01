@@ -4,7 +4,7 @@ docent: Pascal Nosenzo (pascal.nosenzo@kdg.be)
 
 ## Deadlines
 
-- ### Deadline 01  
+- Deadline 01  
 	- Deadline: voor de les van dinsdag 7 oktober 2014
 	- Opdracht: tot en met de opdracht op GET
 
@@ -49,7 +49,110 @@ Deze virtual hosts moeten correct ingesteld worden, anders zullen sommige voorbe
 
 ## Studenten
 
-- ### Kristof Van Aken
+- Kristof Van Aken
 	- email: kristof.vanaken@student.kdg.be
 	- GitHub: https://github.com/VanAkenKristof
+
+- Arteau De Meester
+	- email: arteau.demeester@student.kdg.be
+	- GitHub: https://www.github.com/Arteau
+
+- Marijn Brosens
+	- email: marijn.brosens@student.kdg.be
+	- GitHub: https://github.com/MarijnBrosens
+
+- Giele Cools
+	- email: giele.cools@student.kdg.be
+	- GitHub: https://www.github.com/GieleCools
+
+- Jan Cornelis
+	- email: jan.cornelis@student.kdg.be
+	- GitHub: https://github.com/cornelisjw
+
+- Jolita Grazyte
+	- email: jolita.grazyte@student.kdg.be
+	- GitHub: https://www.github.com/JolitaGrazyte
+
+- Ruud Luijten
+	- email: ruud.luijten@student.kdg.be
+	- GitHub: https://www.github.com/rluijten
 				
+- Piotr Mazurek
+	- email: mazurek.piotr@student.kdg.be
+	- GitHub: https://www.github.com/MazurekPiotr
+				
+- Jim Peeters
+	- email: jim.peeters@student.kdg.be
+	- GitHub: ---
+				
+- Iverick Razab-Sekh
+	- email: iverick.razabsekh@student.kdg.be
+	- GitHub: ---
+				
+- Félix Rijkers
+	- email: felix.rijkers@student.kdg.be
+	- GitHub: ---
+				
+- Sam Schuddinck
+	- email: sam.schuddinck@student.kdg.be
+	- GitHub: ---
+				
+- Jeroen Van den Broeck
+	- email: jeroen.vandenbroeck@student.kdg.be
+	- GitHub: https://www.github.com/jeroenjvdb
+				
+- Jonas Van Reeth
+	- email: jonas.vanreeth@student.kdg.be
+	- GitHub: ---
+
+- Thomas Van Roy
+	- email: thomas.vanroy.1@student.kdg.be
+	- GitHub: https://www.github.com/ThomasVaRo
+
+- Alexander van Ruiten Oscar
+	- email: oscaralexander.vanruiten@student.kdg.be
+	- GitHub: ---
+
+- Didier De Maeyer
+	- email: didier.demaeyer@student.kdg.be
+	- GitHub: https://github.com/didierdm
+				
+- Vic Denys
+	- email: vic.denys@student.kdg.be
+	- GitHub: https://github.com/vicdenys
+				
+- Stijn De Ridder
+	- email: stijn.deridder.1@student.kdg.be
+	- GitHub: ---
+				
+- Senne De Valck
+	- email: senne.devalck@student.kdg.be
+	- GitHub: https://www.github.com/FrozenFalcon
+				
+- Steven Serrien
+	- email: steven.serrien@student.kdg.be
+	- GitHub: https://www.github.com/StevenSerrien
+				
+- Arne Van Bavel
+	- email: arne.vanbavel@student.kdg.be
+	- GitHub: ---
+				
+- Tim van Dijck
+	- email: tim.vandijck.1@student.kdg.be
+	- GitHub: ---
+				
+- Dries Van Schevensteen
+	- email: dries.vanschevensteen@student.kdg.be
+	- GitHub: https://github.com/DriesVS
+				
+- Ruben Wouters
+	- email: ruben.wouters@student.kdg.be
+	- GitHub: https://www.github.com/Ravar33
+				
+- Benno Meysmans
+	- email: benno.meysmans@student.kdg.be
+	- GitHub: https://www.github.com/BennoDev
+				
+- Jonathan Put
+	- email: jonathan.put@student.kdg.be
+	- GitHub: https://www.github.com/jonathan95129
