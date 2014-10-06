@@ -129,7 +129,7 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 				
 - Stijn De Ridder
 	- email: stijn.deridder.1@student.kdg.be
-	- GitHub: ---
+	- GitHub: https://github.com/DeRidderStijn
 				
 - Senne De Valck
 	- email: senne.devalck@student.kdg.be
