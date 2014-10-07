@@ -29,9 +29,10 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 - Je gemaakte opdrachten komen op je publieke GitHub repository.
 
 - Per gemaakte opdracht voer je minstens één commit uit, zodat het duidelijk is wanneer je aan welke oefening hebt gewerkt. 
+
 - Deadlines worden gerespecteerd, zonder discussie.
 
-- Je mag dingen kopiëren, op voorwaarde dat je elke lijn code kan uitleggen.
+- Je mag kleine dingen kopiëren of je door de voorbeeldopdrachten laten inspireren alsssssss je vast zit op voorwaarde dat je elke lijn code kan uitleggen. Integraal een oefening kopieren en wat variabelen veranderen, staat uiteraard gelijk aan plagiaat.
 
 - Vroeger doorgaan tijdens de lessen is geen enkel probleem, mits je dit bij het begin van de les laat weten en je tijdens je aanwezigheid hebt laten zien waar je aan gewerkt hebt.
 
