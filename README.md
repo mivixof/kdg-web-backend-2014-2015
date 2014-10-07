@@ -145,7 +145,7 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 				
 - Tim van Dijck
 	- email: tim.vandijck.1@student.kdg.be
-	- GitHub: ---
+	- GitHub: https://github.com/timpressive
 				
 - Dries Van Schevensteen
 	- email: dries.vanschevensteen@student.kdg.be
