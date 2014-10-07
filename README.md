@@ -74,9 +74,11 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 - Giele Cools
 	- email: giele.cools@student.kdg.be
 	- GitHub: https://www.github.com/GieleCools
+
 - Bram De Baerdemaeker
 	- email: bram.debaerdemaeker@student.kdg.be	
 	- Github: https://www.github.com/bramdebaerdemaeker
+
 - Jan Cornelis
 	- email: jan.cornelis@student.kdg.be
 	- GitHub: https://github.com/cornelisjw
