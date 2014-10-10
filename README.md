@@ -9,6 +9,7 @@ ECTS: [Web back-end WP 2](https://bamaflexweb.kdg.be/BMFUIDetailxOLOD.aspx?a=564
 - Deadline 02  
 	- Deadline: voor de les van dinsdag 14 oktober 2014
 	- Opdracht: tot en met de opdracht op time (uitbreiding) - herhalingsopdracht 01 mag, maar hoeft niet (=redelijk pittig)
+	- Neem de slides voor cookies en sessions zeker eens door, daar gaan we volgende les mee aan de slag
 
 - Deadline 01  
 	- Deadline: voor de les van dinsdag 7 oktober 2014
