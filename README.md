@@ -119,7 +119,7 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 				
 - Jonas Van Reeth
 	- email: jonas.vanreeth@student.kdg.be
-	- GitHub: ---
+	- GitHub: https://github.com/jonasvr/web-backend
 
 - Thomas Van Roy
 	- email: thomas.vanroy.1@student.kdg.be
