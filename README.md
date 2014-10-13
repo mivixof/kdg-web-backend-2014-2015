@@ -65,10 +65,6 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 	- email: kristof.vanaken@student.kdg.be
 	- GitHub: https://github.com/VanAkenKristof
 
-- Arteau De Meester
-	- email: arteau.demeester@student.kdg.be
-	- GitHub: https://www.github.com/Arteau
-
 - Marijn Brosens
 	- email: marijn.brosens@student.kdg.be
 	- GitHub: https://github.com/MarijnBrosens
