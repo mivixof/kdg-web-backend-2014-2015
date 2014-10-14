@@ -6,7 +6,7 @@ ECTS: [Web back-end WP 2](https://bamaflexweb.kdg.be/BMFUIDetailxOLOD.aspx?a=564
 
 ## Deadlines
 
-- Deadlines 03
+- Deadline 03
 	- Deadline: voor de les van dinsdag 21 oktober 2014
 	- Opdracht: tot en met opdracht op cookies
 	- Neem de slides tot en met Classes: static eens door, daar gaan we volgende les mee aan de slag
