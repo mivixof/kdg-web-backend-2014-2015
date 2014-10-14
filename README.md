@@ -55,6 +55,8 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 	- Verricht je opzoekingswerk?
 	- Stel je voldoende vragen?
 	- Haal je de deadlines of communiceer je tijdig wanneer dit niet lukt?
+	- Deze evaluatie kan je ook altijd even komen raadplegen
+	- 50% van het eindtotaal
 
 - Resultaat van de tussentijdse opdrachten
 	- Op het einde van elke periode volgt er een opdracht om te kijken wat je huidige kennis is. Deze wordt beoordeeld op:
@@ -62,6 +64,9 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 		- Gebruikte technieken comform met de cursus
 		- Cleane code (indents, herbruikbaarheid: functies/classes, scheiding logica & html)
 	- Deze opdracht moet individueel opgelost worden. Plagiaat/kopiëren wordt zwaar bestraft en krijgen een glansloze vermelding in de "Hall of shame".
+	- 50% van het eindtotaal
+
+Er wordt geen eindexamen voor Web Backend geörganiseerd.
 
 
 ## Studenten
