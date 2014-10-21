@@ -109,7 +109,7 @@ Er wordt geen eindexamen voor Web Backend geörganiseerd.
 				
 - Iverick Razab-Sekh
 	- email: iverick.razabsekh@student.kdg.be
-	- GitHub: ---
+	- GitHub: https://github.com/RaphaelRazabsekh/
 				
 - Félix Rijkers
 	- email: felix.rijkers@student.kdg.be
