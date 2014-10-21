@@ -105,7 +105,7 @@ Er wordt geen eindexamen voor Web Backend geörganiseerd.
 				
 - Jim Peeters
 	- email: jim.peeters@student.kdg.be
-	- GitHub: ---
+	- GitHub: https://www.github.com/jimpeeters/
 				
 - Iverick Razab-Sekh
 	- email: iverick.razabsekh@student.kdg.be
