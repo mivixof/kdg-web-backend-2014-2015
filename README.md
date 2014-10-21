@@ -140,7 +140,7 @@ Er wordt geen eindexamen voor Web Backend geörganiseerd.
 
 - Alexander van Ruiten Oscar
 	- email: oscaralexander.vanruiten@student.kdg.be
-	- GitHub: ---
+	- GitHub: https://github.com/oscaravr/
 
 - Didier De Maeyer
 	- email: didier.demaeyer@student.kdg.be
