@@ -117,7 +117,7 @@ Er wordt geen eindexamen voor Web Backend geörganiseerd.
 				
 - Sam Schuddinck
 	- email: sam.schuddinck@student.kdg.be
-	- GitHub: ---
+	- GitHub: https://github.com/TheNumber4/
 				
 - Jeroen Van den Broeck
 	- email: jeroen.vandenbroeck@student.kdg.be
