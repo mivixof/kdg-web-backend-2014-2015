@@ -6,6 +6,13 @@ ECTS: [Web back-end WP 2](https://bamaflexweb.kdg.be/BMFUIDetailxOLOD.aspx?a=564
 
 ## Deadlines
 
+- Deadline 04:
+	- Deadline: voor de les van dinsdag 18 november 2014
+	- Opdracht: tot en met opdracht-classes-portfolio
+	- Periodeopdracht: http://kdg.pascalculator.be/14-15/wb/opdracht-01-todo/
+		- Alle code zelf schrijven!
+		- Komt ook publiek op je repository te staan
+
 - Deadline 03
 	- Deadline: voor de les van dinsdag 21 oktober 2014
 	- Opdracht: tot en met opdracht op cookies
