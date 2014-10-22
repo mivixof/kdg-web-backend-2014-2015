@@ -8,10 +8,13 @@ ECTS: [Web back-end WP 2](https://bamaflexweb.kdg.be/BMFUIDetailxOLOD.aspx?a=564
 
 - Deadline 04:
 	- Deadline: voor de les van dinsdag 18 november 2014
-	- Opdracht: tot en met opdracht-classes-portfolio
+	- Opdracht: alle opdrachten tem classes inclusief opdracht-classes-portfolio (=deze staat nog niet vermeld id slides)
 	- Periodeopdracht: http://kdg.pascalculator.be/14-15/wb/opdracht-01-todo/
-		- Alle code zelf schrijven!
-		- Komt ook publiek op je repository te staan
+		- De oplossing is gegeven, probeer dit zo precies mogelijk na te bouwen
+			- Functionaliteit (PHP) is het belangrijkst
+			- HTML/CSS (evt JS) mag je overnemen of zelf schrijven (maar moet wel correct toegepast worden)
+		- Ten rade gaan bij je medestudenten mag zeker, maar je schrijft en begrijpt zelf alle code.
+		- Deze opdracht komt publiek op je repository in de map "periodeopdracht-01-todo" te staan
 
 - Deadline 03
 	- Deadline: voor de les van dinsdag 21 oktober 2014
